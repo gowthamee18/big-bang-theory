@@ -44,7 +44,7 @@ Make sure you have Python installed.
 Then open your terminal and run:
 
 ```bash
-python bigbangthoery.py
+python big_bang_thoery.py
 ```
 Alternatively, you can download the `.ipynb` (Jupyter Notebook) file and run it in your favorite Python environment!
 
